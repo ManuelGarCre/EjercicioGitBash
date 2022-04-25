@@ -2,3 +2,6 @@ Soy la rama1 y tengo
 varias lienas de codigo
 pero aun asi
 son muy pocas.
+
+hay que añadir un total de
+dos lineas en cada fichero rama
